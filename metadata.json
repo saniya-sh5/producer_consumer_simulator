@@ -1,0 +1,6 @@
+{
+  "name": "Smart EV Charging - Producer Consumer Simulator",
+  "description": "Interactive concurrency & smart grid visualizer demonstrating the Producer-Consumer model, mutex locks, semaphores, race conditions, and AI charge balancing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
